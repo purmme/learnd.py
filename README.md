@@ -1,2 +1,2 @@
 # learnd.py
-learnd.py
+learn.py
